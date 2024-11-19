@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(hsl(175, 100%, 50%),hsl(325, 100%, 50%));
+}
+div{
+    margin: 10px;
+    padding: 20px;
+}
